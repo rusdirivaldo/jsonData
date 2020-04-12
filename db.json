@@ -1,0 +1,42 @@
+{
+   "data":[
+    {
+      "name":"Developer",
+      "title":"Developer",
+      "subtitle":"Java Developer",
+      "buttonValues":[
+        {
+          "name":"Job Description",
+          "Payload":"JobDesc"
+        },
+        {
+          "name":"Syarat & Ketentuan",
+          "Payload":"Syarat&Ketentuan"
+        },
+        {
+          "name":"Apply Now",
+          "Payload":"applyNow"
+        }
+      ]
+    },
+    {
+      "name":"Sales",
+      "title":"Sales",
+      "subtitle":"Sales",
+      "buttonValues":[
+        {
+          "name":"Job Description",
+          "Payload":"JobDesc"
+        },
+        {
+          "name":"Syarat & Ketentuan",
+          "Payload":"Syarat&Ketentuan"
+        },
+        {
+          "name":"Apply Now",
+          "Payload":"applyNow"
+        }
+      ]
+    }
+  ]
+}
